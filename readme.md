@@ -2,7 +2,9 @@
 
 ### English version
 
-There is very little chance of having fun or creating anything interesting in an environment where people do not feel safe. That is why `incomple.to` has a Code of Conduct that you should read.
+There is very little chance of having fun or creating anything interesting in an environment where people do not feel safe. 
+
+That is why `incomple.to` has a Code of Conduct.
 
 👉 &nbsp; [**You can read it here**](english.md) &nbsp; 👈
 
@@ -14,7 +16,9 @@ Our Code of Conduct is adapted from the [Contributor Covenant v1.4](https://www.
 
 ### Spanish version
 
-Hay muy pocas posibilidades de divertirse o crear algo interesante en un entorno donde las personas no se sienten seguras. Por eso `incomple.to` tiene un Código de Conducta que deberías leerte.
+Hay muy pocas posibilidades de divertirse o crear algo interesante en un entorno donde las personas no se sienten seguras. 
+
+Por eso `incomple.to` tiene un Código de Conducta.
 
 👉 &nbsp; [**Puedes leerlo aquí**](spanish.md) &nbsp; 👈
 
