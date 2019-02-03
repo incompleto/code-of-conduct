@@ -12,7 +12,7 @@ Our Code of Conduct is adapted from the [Contributor Covenant v1.4](https://www.
 
 ---
 
-### Spanish version
+### Versión en español
 
 Hay muy pocas posibilidades de divertirse o crear algo interesante en un entorno donde las personas no se sienten seguras. Por eso `incomple.to` tiene un Código de Conducta.
 
