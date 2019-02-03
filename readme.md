@@ -8,7 +8,7 @@ There is very little chance of having fun or creating anything interesting in an
 
 Let us be clear: _We take this stuff very seriously_. We expect attendees to any of our meetings, events or workshops to be familiar with it and act accordingly. Failure to comply will result in a formal warning or expulsion. We reserve the right of admission. But also, you do not want to be that person. It is not cool.
 
-<small>Our Code of Conduct is adapted from the [Contributor Covenant v1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).</small>
+Our Code of Conduct is adapted from the [Contributor Covenant v1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
 
 ---
 
